@@ -1,0 +1,1 @@
+android 2 do not support hls, and android 4 do not support metadata in stream
